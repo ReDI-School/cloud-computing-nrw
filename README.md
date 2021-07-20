@@ -2,7 +2,7 @@
 DCP Cloud Computing course for Berlin, Munich, NRW
 
 ## Curriculum
-** Module 1: Introduction
+Module 1: Introduction
 - Intro to Cloud
 - Intro to Azure
 - Intro to Compute
@@ -10,7 +10,7 @@ DCP Cloud Computing course for Berlin, Munich, NRW
 - Intro to Networking (comparison between Azure, AWS, Google)
 - Security and Monitoring Basics
 
-** Module 2: Group project – deploy a webapp in a secure way
+Module 2: Group project – deploy a webapp in a secure way
 - Project Outline
 - Project Planning Methodology - SCRUM
 - Architecture (Cloud adoption framework)
@@ -21,7 +21,7 @@ DCP Cloud Computing course for Berlin, Munich, NRW
 - Performance monitoring
 - Project internal presentation
 
-** Module 3: AZ900 exam preparation
+Module 3: AZ900 exam preparation
 - Part 1: Describe core Azure concepts
 - Part 2: Describe core Azure services
 - Part 3: Describe core solutions and management tools on Azure
