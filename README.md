@@ -1,8 +1,8 @@
 # cloud-computing
 DCP Cloud Computing course for Berlin, Munich, NRW
 
-# Curriculum
-Module 1: Introduction
+## Curriculum
+*Module 1: Introduction*
 - Intro to Cloud
 - Intro to Azure
 - Intro to Compute
