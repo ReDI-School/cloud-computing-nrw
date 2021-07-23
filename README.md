@@ -12,6 +12,7 @@ Module 1: Introduction
 
 Module 2: Group project – deploy a webapp in a secure way
 - Project Outline
+  - ReDI School privides a sourcecode of https://jobs.communityredi.school/
 - Project Planning Methodology - SCRUM
 - Architecture (Cloud adoption framework)
 - Build web app in Visual Studio, publish web app, source code management
