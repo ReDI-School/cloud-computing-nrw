@@ -1,6 +1,20 @@
 # ReDI School Cloud Computing course
 The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
 
+## Teaching Materials
+### Microsoft Learn
+https://docs.microsoft.com/en-us/learn/browse/?products=azure
+[Azure Fundamentals presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Microsoft_Azure_Fundamentals_AZ900)
+[Azure Data Fundamentals presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Microsoft_Azure_Data%20Fundamentals_DP900)
+[Security Compliance Identity Fundamentals presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Microsoft_Security_Compliance_Identity_Fundamentals_SC900)
+### AWS Training (Amazon account needed to access materials)
+https://www.aws.training/
+### Google Workspace Learning Center
+https://support.google.com/a/users/?hl=en#topic=
+### Cisco
+[Introduction to Cybersecurity presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Cisco_Introduction%20to%20Cybersecurity)
+[Cisco Cybersecurity Essentials presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Cisco_Cybersecurity_Essentials)
+
 ## Curriculum
 ### Module 1: Introduction
 - Intro to Cloud
