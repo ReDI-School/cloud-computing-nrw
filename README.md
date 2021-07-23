@@ -47,10 +47,15 @@ The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
 - Project Outline
   - ReDI School privides a sourcecode of https://jobs.communityredi.school/
 - Project Planning Methodology - SCRUM
+  - [What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
 - Architecture (Cloud adoption framework)
+  - [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
 - Build web app in Visual Studio, publish web app, source code management
+  - [Use Git version-control tools in Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/)
 - Authorisation & Authentication/ Security Azure Key Vault
+  - [Authenticate users with Azure Static Web Apps](https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-authentication/)
 - Content delivery network
+  - [Create a Content Delivery Network for your Website with Azure CDN and Blob Services](https://docs.microsoft.com/en-us/learn/modules/create-cdn-static-resources-blob-storage/)
 - Build CI/CD
 - Performance monitoring
 - Project internal presentation
