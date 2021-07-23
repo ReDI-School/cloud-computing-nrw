@@ -40,9 +40,10 @@ The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
 - Security and Monitoring Basics
   - Azure: [4 slides available from Security Compliance Identity Fundamentals SC900](Security_Compliance_Identity_Fundamentals_SC900)
   - Azure: [Security related modules on MS Learn](https://docs.microsoft.com/en-us/learn/browse/?terms=security)
-  - 
+  - AWS: [Module 6: Security](https://www.aws.training/Details/eLearning?id=60697) (eLearning, **sign up necessary to show contents**)
+  - Google: [Security and data protection](https://support.google.com/a/topic/7556782?hl=en&ref_topic=10012113) (Google Workspace Learning Center, no sign-up needed)
 
-### Module 2: Group project – deploy a webapp in a secure way
+### Module 2: Group project – deploy a webapp in a secure way on Azure
 - Project Outline
   - ReDI School privides a sourcecode of https://jobs.communityredi.school/
 - Project Planning Methodology - SCRUM
