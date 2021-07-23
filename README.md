@@ -4,7 +4,7 @@ DCP Cloud Computing course for Berlin, Munich, NRW
 ## Curriculum
 ### Module 1: Introduction
 - Intro to Cloud
-  - Azure: [Presentation] (https://github.com/ReDI-School/cloud-computing/blob/11657158cbf82240b635cf0ef824a48413288442/course_materials/Microsoft_Azure_Fundamentals_AZ900/AZ-900T00A-ENU-PowerPoint_FSI/AZ-900T00%20Microsoft%20Azure%20Fundamentals-00_FINAL.pptx)
+  - Azure: [Presentation](https://github.com/ReDI-School/cloud-computing/blob/11657158cbf82240b635cf0ef824a48413288442/course_materials/Microsoft_Azure_Fundamentals_AZ900/AZ-900T00A-ENU-PowerPoint_FSI/AZ-900T00%20Microsoft%20Azure%20Fundamentals-00_FINAL.pptx) or on this page: https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/
   - AWS: https://aws.amazon.com/getting-started/fundamentals-overview/?e=gs2020&p=gsrc
   - Google: https://support.google.com/a/users/answer/9389764?hl=en&ref_topic=9917952 
 - Intro to Azure
