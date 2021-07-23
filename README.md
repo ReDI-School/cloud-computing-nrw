@@ -47,6 +47,7 @@ The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
 - Project Outline
   - ReDI School privides a sourcecode of https://jobs.communityredi.school/
   - Students will be breaked out into 10 groups (appx. number of students will be 35 in the course, groups setting will be defined after admission)
+  - [Sign up Azure account for free](https://azure.microsoft.com/en-us/free/)
 - Project Planning Methodology - SCRUM
   - [What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
 - Architecture (Cloud adoption framework)
