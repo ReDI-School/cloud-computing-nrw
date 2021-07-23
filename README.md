@@ -9,7 +9,7 @@ The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
 - [Security Compliance Identity Fundamentals presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Microsoft_Security_Compliance_Identity_Fundamentals_SC900) (presentation & files in repository)
 ### AWS Training (Amazon account needed to access materials)
 - [AWS Training website](https://www.aws.training/)
-- [AWS Cloud Practitioner Essentials](https://www.aws.training/Details/eLearning?id=60697)
+- [AWS Cloud Practitioner Essentials website](https://www.aws.training/Details/eLearning?id=60697)
 ### Google Workspace Learning Center
 - [Google Workspace Learning Center website](https://support.google.com/a/users/?hl=en#topic=)
 ### Cisco
