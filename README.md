@@ -1,5 +1,5 @@
-# cloud-computing
-DCP Cloud Computing course for Berlin, Munich, NRW
+# ReDI School Cloud Computing course
+The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
 
 ## Curriculum
 ### Module 1: Introduction
