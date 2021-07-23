@@ -5,7 +5,7 @@ The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
 ### Microsoft Learn
 - [MS Learn website](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
 - [Azure Fundamentals presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Microsoft_Azure_Fundamentals_AZ900) (presentation & files in repository)
-- [Azure Data Fundamentals presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Microsoft_Azure_Data%20Fundamentals_DP900) (presentation & files in repository) (presentation & files in repository)
+- [Azure Data Fundamentals presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Microsoft_Azure_Data%20Fundamentals_DP900) (presentation & files in repository)
 - [Security Compliance Identity Fundamentals presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Microsoft_Security_Compliance_Identity_Fundamentals_SC900) (presentation & files in repository)
 ### AWS Training (Amazon account needed to access materials)
 - [AWS Training website](https://www.aws.training/)
