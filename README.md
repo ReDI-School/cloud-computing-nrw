@@ -10,6 +10,7 @@ DCP Cloud Computing course for Berlin, Munich, NRW
 - Intro to Azure
   - [Presentation](https://github.com/ReDI-School/cloud-computing/blob/a5b1e899dd096d3d595b6d62b0e613d7396f8f4c/course_materials/Microsoft_Azure_Fundamentals_AZ900/AZ-900T00A-ENU-PowerPoint_FSI/AZ-900T00%20Microsoft%20Azure%20Fundamentals-01%20(cloud%20concepts)_FINAL.pptx) or https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/
 - Intro to Compute
+  - Azure: [Overview of Azure compute services](https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview)
   - AWS: [Compute in Cloud in AWS Cloud Practitioner Essentials (eLearning, sign up necessary)](https://www.aws.training/Details/eLearning?id=60697)
 - Intro to Storage (comparison between Azure, AWS, Google)
 - Intro to Networking (comparison between Azure, AWS, Google)
