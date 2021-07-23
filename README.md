@@ -46,6 +46,7 @@ The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
 ### Module 2: Group project – deploy a webapp in a secure way on Azure
 - Project Outline
   - ReDI School privides a sourcecode of https://jobs.communityredi.school/
+  - Students will be breaked out into 10 groups (appx. number of students will be 35 in the course, groups setting will be defined after admission)
 - Project Planning Methodology - SCRUM
   - [What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
 - Architecture (Cloud adoption framework)
@@ -57,7 +58,11 @@ The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
 - Content delivery network
   - [Create a Content Delivery Network for your Website with Azure CDN and Blob Services](https://docs.microsoft.com/en-us/learn/modules/create-cdn-static-resources-blob-storage/)
 - Build CI/CD
+  - [What is CD/CI](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+  - [MS Learn modules realted to CD/CI for beginners](https://docs.microsoft.com/en-us/learn/browse/?terms=CI%20CD&levels=beginner)
 - Performance monitoring
+  - [Choose the best monitoring service for visibility, insight, and outage mitigation](https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/)
+  - [Monitor the usage, performance, and availability of resources with Azure Monitor](https://docs.microsoft.com/en-us/learn/paths/monitor-usage-performance-availability-resources-azure-monitor/)
 - Project internal presentation
 
 ### Module 3: AZ900 exam preparation
