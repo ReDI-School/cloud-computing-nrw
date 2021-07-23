@@ -23,15 +23,19 @@ The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
   - Google: [Welcome to Google Workspace](https://support.google.com/a/users/answer/9389764?hl=en&ref_topic=9917952) (Google Workspace Learning Center, no sign-up needed)
 - Intro to Azure
   - [Presentation](https://github.com/ReDI-School/cloud-computing/blob/a5b1e899dd096d3d595b6d62b0e613d7396f8f4c/course_materials/Microsoft_Azure_Fundamentals_AZ900/AZ-900T00A-ENU-PowerPoint_FSI/AZ-900T00%20Microsoft%20Azure%20Fundamentals-01%20(cloud%20concepts)_FINAL.pptx) or [Azure Fundamentals part 2: Describe core Azure services](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/) (MS Learn, no sign-up needed)
+  - [Sign up Azure account for free](https://azure.microsoft.com/en-us/free/)
 - Intro to Compute
   - Azure: [Overview of Azure compute services](https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview) (MS Learn, no sign-up needed)
   - AWS: [Compute in Cloud in AWS Cloud Practitioner Essentials](https://www.aws.training/Details/eLearning?id=60697) (eLearning, **sign up necessary to show contents**)
   - Google: [Compute Engine](https://cloud.google.com/compute) (website, no sign-up needed)
 - Intro to Storage (comparison between Azure, AWS, Google)
   - Azure: [Explore Azure Storage services](https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/) (MS Learn, no sign-up needed)
-  - AWS: [Storage and Databases](https://www.aws.training/Details/eLearning?id=60697&la=cp&tile=gst) (eLearning, **sign up necessary to show contents**)
+  - AWS: [Storage and Databases](https://www.aws.training/Details/eLearning?id=60697) (eLearning, **sign up necessary to show contents**)
   - Google: [File storage, collaboration & docs](https://support.google.com/a/users/answer/10005650?visit_id=637626467996669028-4241468714&hl=en&rd=1) (Google Workspace Learning Center, no sign-up needed)
 - Intro to Networking (comparison between Azure, AWS, Google)
+  - Azure: [Explore Azure networking services](https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/) (MS Learn, no sign-up needed)
+  - AWS: [Networking](https://www.aws.training/Details/eLearning?id=60697) (eLearning, **sign up necessary to show contents**)
+  - Google: [File storage, collaboration & docs](https://support.google.com/a/users/answer/10005650?visit_id=637626467996669028-4241468714&hl=en&rd=1) (Google Workspace Learning Center, no sign-up needed)
 - Security and Monitoring Basics
 
 ### Module 2: Group project – deploy a webapp in a secure way
