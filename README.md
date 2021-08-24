@@ -45,7 +45,7 @@ The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
 
 ### Module 2: Group project – deploy a webapp in a secure way on Azure
 - Project Outline
-  - ReDI School privides a sourcecode of https://jobs.communityredi.school/ (Julian please upload the code)
+  - ReDI School privides a sourcecode of https://jobs.communityredi.school/ (Julian please upload the code), source code: https://github.com/ReDI-School/job-board-be, https://github.com/ReDI-School/job-board
   - Business goal, project description (Karim and Takuya are working on it) 
   - Students will be breaked out into 10 groups (appx. number of students will be 35 in the course, groups setting will be defined after admission)
   - [Sign up Azure account for free](https://azure.microsoft.com/en-us/free/)
