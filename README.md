@@ -45,9 +45,11 @@ The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
 
 ### Module 2: Group project – deploy a webapp in a secure way on Azure
 - Project Outline
-  - ReDI School privides a sourcecode of https://jobs.communityredi.school/ (Julian please upload the code), source code: https://github.com/ReDI-School/job-board-be, https://github.com/ReDI-School/job-board
-  - Business goal, project description (Karim and Takuya are working on it) 
-  - Students will be breaked out into 10 groups (appx. number of students will be 35 in the course, groups setting will be defined after admission)
+  - [Project Description](https://docs.google.com/document/d/16Lz88wbmPacpxv9l1xffkhHCcUP2DaanDdo_KQ27qAk/edit?usp=sharing)
+  - Example of a running Webapp: https://jobs.communityredi.school/
+  - Source code: Backend: https://github.com/ReDI-School/job-board-be, Frontend: https://github.com/ReDI-School/job-board
+  - Students will be breaked out into 5 groups (group distribution is available on [Spreadsheet in MS Teams](https://redischool1.sharepoint.com/:x:/s/CloudComputing/ESByp3OtNIhCh9aBYTVL_Y4BpvbsiDhfKI3WmOhl883r6w?e=oI0P4H))
+  - In MS Teams channels for 5 groups will be created.
   - [Sign up Azure account for free](https://azure.microsoft.com/en-us/free/)
 - Project Planning Methodology - SCRUM
   - [What is Scrum?](https://www.scrum.org/resources/what-is-scrum) (website)
