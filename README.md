@@ -50,7 +50,7 @@ The Cloud Computing course in the Digital Career Program for Berlin, Munich, NRW
   - Source code: Backend: https://github.com/ReDI-School/job-board-be, Frontend: https://github.com/ReDI-School/job-board
   - Students will be breaked out into 5 groups (group distribution is available on [Spreadsheet in MS Teams](https://redischool1.sharepoint.com/:x:/s/CloudComputing/ESByp3OtNIhCh9aBYTVL_Y4BpvbsiDhfKI3WmOhl883r6w?e=oI0P4H))
   - In MS Teams channels for 5 groups will be created.
-  - [Sign up Azure account for free](https://azure.microsoft.com/en-us/free/)
+  - [Sign up Azure account with ReDI's email address](https://azure.microsoft.com/en-us/free/)
 - Project Planning Methodology - SCRUM
   - [What is Scrum?](https://www.scrum.org/resources/what-is-scrum) (website)
 - Architecture (Cloud adoption framework)
