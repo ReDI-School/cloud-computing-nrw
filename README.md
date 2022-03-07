@@ -5,9 +5,9 @@ The Cloud Computing course in the Digital Career Program in NRW
 We focus on Cloud Computing topics with Microsoft Azure
 ### Microsoft Learn
 - [MS Learn website](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
-- [Azure Fundamentals presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Microsoft_Azure_Fundamentals_AZ900) (presentation & files in repository)
-- [Azure Data Fundamentals presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Microsoft_Azure_Data%20Fundamentals_DP900) (presentation & files in repository)
-- [Security Compliance Identity Fundamentals presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Microsoft_Security_Compliance_Identity_Fundamentals_SC900) (presentation & files in repository)
+- [Azure Fundamentals presentations and teaching guides](https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Microsoft_Azure_Fundamentals_AZ900?csf=1&web=1&e=LwomDk) (presentation & files in Teacher's channel in MS Teams)
+- [Azure Data Fundamentals presentations and teaching guides](https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Microsoft_Azure_Data%20Fundamentals_DP900?csf=1&web=1&e=8mnJWD) (presentation & files in Teacher's channel in MS Teams)
+- [Security Compliance Identity Fundamentals presentations and teaching guides](https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Microsoft_Security_Compliance_Identity_Fundamentals_SC900?csf=1&web=1&e=vrdn50) (presentation & files in Teacher's channel in MS Teams)
 
 ### Project Description
 - [Project Description](https://docs.google.com/document/d/16Lz88wbmPacpxv9l1xffkhHCcUP2DaanDdo_KQ27qAk/edit?usp=sharing)
@@ -19,8 +19,8 @@ We focus on Cloud Computing topics with Microsoft Azure
 <p>Google Workspace Learning Center</br>
 - [Google Workspace Learning Center website](https://support.google.com/a/users/?hl=en#topic=)</p>
 <p>Cisco</br>
-- [Introduction to Cybersecurity presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Cisco_Introduction%20to%20Cybersecurity) (presentation & files in repository)</br>
-- [Cisco Cybersecurity Essentials presentations and teaching guides](https://github.com/ReDI-School/cloud-computing/tree/main/course_materials/Cisco_Cybersecurity_Essentials) (presentation & files in repository)</p></details>
+- [Introduction to Cybersecurity presentations and teaching guides](https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Cisco_Introduction%20to%20Cybersecurity?csf=1&web=1&e=gQwd3b) (presentation & files in Teacher's channel in MS Teams)</br>
+- [Cisco Cybersecurity Essentials presentations and teaching guides](https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Cisco_Cybersecurity_Essentials?csf=1&web=1&e=MWmQov) (presentation & files in Teacher's channel in MS Teams)</p></details>
 
 ## Curriculum
 | Module | Lesson # | Topic | Slides for teachers | Learning resources |
