@@ -2,12 +2,13 @@
 
 ## General
 
-git, https://git-scm.org (mandatory)
+git, https://git-scm.org (mandatory)  
   - open-source, cross-platform
   - Keep track of "code" and include versioning (for example using Tags)
   - Allows for collaboration (if repository is hosted in a shared location)
-  - Public/Private repositories cloud-hosted: github.com
-Visual Studio Code, https://code.visualstudio.com (or other editor of choice)
+  - Public/Private repositories cloud-hosted: github.com  
+
+Visual Studio Code, https://code.visualstudio.com (or other editor of choice)  
   - open-source, cross-platform
   - With a GitHub account you can sync settings between computers
   - In a GitHub repo: Opened by pressing "."
@@ -22,6 +23,7 @@ terraform
   - hashicorp, also produces tools like Packer
   - Can be extended with Resource Providers to target different clouds (including Private Clouds like Hyper-V, VMWare Esxi)
   - Provides a Domain-specific language to define and deploy Resources  
+
 Pulumi  
 Snyk  
 
