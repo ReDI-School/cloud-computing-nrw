@@ -10,12 +10,12 @@ Follow the learning pathes to prepare yourself for the Exam AZ 900: Azure Fundam
 
 ## Additional resources from other cloud services
 ### AWS Training (Amazon account needed to access materials)
-- [AWS Training website] (https://www.aws.training/)
-- [AWS Cloud Practitioner Essentials website] (https://www.aws.training/Details/eLearning?id=60697)
+- [AWS Training website](https://www.aws.training/)
+- [AWS Cloud Practitioner Essentials website](https://www.aws.training/Details/eLearning?id=60697)
 
 ### Google Workspace Learning Center
-- [Google Workspace Learning Center website] (https://support.google.com/a/users/?hl=en#topic=)
+- [Google Workspace Learning Center website](https://support.google.com/a/users/?hl=en#topic=)
 
 ### Cisco
-- [Introduction to Cybersecurity presentations and teaching guides] (https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Cisco_Introduction%20to%20Cybersecurity?csf=1&web=1&e=gQwd3b)
-- [Cisco Cybersecurity Essentials presentations and teaching guides] (https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Cisco_Cybersecurity_Essentials?csf=1&web=1&e=MWmQov)
+- [Introduction to Cybersecurity presentations and teaching guides](https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Cisco_Introduction%20to%20Cybersecurity?csf=1&web=1&e=gQwd3b)
+- [Cisco Cybersecurity Essentials presentations and teaching guides](https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Cisco_Cybersecurity_Essentials?csf=1&web=1&e=MWmQov)
